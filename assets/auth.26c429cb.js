@@ -1,0 +1,1 @@
+import{_ as s,o as a,d as t,b as e,j as n,a as r,w as o,k as u}from"./index.2716c42f.js";const c={class:"auth-wrapper"};const d=s({},[["render",function(s,n){return a(),t("div",c,[e(s.$slots,"default")])}]]);const f=s({},[["render",function(s,t){const e=n("RouterView"),c=d;return a(),r(c,null,{default:o((()=>[u(e)])),_:1})}]]);export{f as default};

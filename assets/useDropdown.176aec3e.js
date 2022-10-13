@@ -1,0 +1,1 @@
+import{u as e,Z as a,$ as s,r as l}from"./index.2716c42f.js";function u(u,i={clickOutside:!0}){const c=e(!1);i.clickOutside&&a(u,(()=>{c.value=!1}));return s((()=>{u.value&&(c.value?u.value.classList.add("is-active"):u.value.classList.remove("is-active"))})),l({isOpen:c,open:()=>{c.value=!0},close:()=>{c.value=!1},toggle:()=>{c.value=!c.value}})}export{u};

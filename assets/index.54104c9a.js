@@ -1,0 +1,1 @@
+import{A as a,C as s,y as e,o as n,d}from"./index.2716c42f.js";const o=a({__name:"index",setup(a){const o=s();return e((()=>{o.push({name:"/navbar/dashboards"})})),(a,s)=>(n(),d("div"))}});export{o as default};
